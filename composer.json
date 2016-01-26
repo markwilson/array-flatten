@@ -1,0 +1,19 @@
+{
+    "name": "markwilson/array-flatten",
+    "description": "Adds array_flatten(array) global function",
+    "type": "library",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "Mark Wilson",
+            "email": "mark@89allport.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": ["src/array_flatten.php"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.1"
+    }
+}
