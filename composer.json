@@ -2,7 +2,7 @@
     "name": "markwilson/array-flatten",
     "description": "Adds array_flatten(array) global function",
     "type": "library",
-    "license": "apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Mark Wilson",
